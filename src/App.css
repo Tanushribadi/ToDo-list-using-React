@@ -44,7 +44,7 @@ body{
   color:white;
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:400px){
 h3{
   font-size:40px;
   position:absolute;
