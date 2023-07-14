@@ -32,7 +32,7 @@ function App() {
     <button className="button" onClick={addTask}>Add Names</button>
   </div>
  </div>
- <h3>Todo List</h3>
+ 
  <div className="list">
   {todoList.map((task) => {
     return (
